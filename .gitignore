@@ -27,6 +27,8 @@ auths/*
 
 # Documentation
 docs/*
+!docs/fork-maintainer-workflow.md
+!docs/fork-maintainer-workflow_CN.md
 AGENTS.md
 CLAUDE.md
 GEMINI.md

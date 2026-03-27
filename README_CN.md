@@ -87,6 +87,8 @@ CLIProxyAPI 已内置对 [Amp CLI](https://ampcode.com) 和 Amp IDE 扩展的支
 
 欢迎贡献！请随时提交 Pull Request。
 
+如果你维护的是自己的 fork，并希望同时保留上游镜像、稳定分支和开发分支，可参考 [docs/fork-maintainer-workflow_CN.md](docs/fork-maintainer-workflow_CN.md)。
+
 1. Fork 仓库
 2. 创建您的功能分支（`git checkout -b feature/amazing-feature`）
 3. 提交您的更改（`git commit -m 'Add some amazing feature'`）

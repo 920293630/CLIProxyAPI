@@ -88,6 +88,8 @@ CLIProxyAPI includes integrated support for [Amp CLI](https://ampcode.com) and A
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+Fork maintainers who want to keep an upstream mirror plus separate stable/dev branches can follow [docs/fork-maintainer-workflow.md](docs/fork-maintainer-workflow.md).
+
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
